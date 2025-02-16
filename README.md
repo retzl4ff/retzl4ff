@@ -1,4 +1,4 @@
-## What's up! I'm João Retzlaff, a programming student🤗
+## What's up! I'm João Retzlaff, FullStack Web Developer
 <div align="center">
   <a href="https://github.com/retzl4ff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=retzl4ff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
